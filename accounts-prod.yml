@@ -2,9 +2,9 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to SmallBank accounts related Production APIs "
+  message: "Welcome to SmallBank accounts related Production APIs testing for webhook "
   contactDetails:
-    name: "Alex Doe - Prod Lead"
+    name: "Alex Doe - production Lead"
     email: "{cipher}0305d92def23f9a52e2bd387bcd89121ca136575813f8fc2430d0149a5fc2d1d3280621f1dd0f0632fdd875cf862c68b"
   onCallSupport:
     - (777) 555-1234
