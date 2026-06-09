@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Loans for prod"
+  message: "Welcome to Loans for production"
   contactDetails:
     name: "Boyd"
     email: "boyd@simplebank.com"
