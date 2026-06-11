@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 cards:
-  message: "Welcome to Cards related to local api"
+  message: "Welcome to Cards related to local api updating through webhook"
   contactDetails:
     name: "David - Developer"
     email: "david@simplebank.com"
