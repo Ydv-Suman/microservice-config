@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to SmallBank accounts related local APIs testing webhook after dockrized the services "
+  message: "Welcome to SmallBank accounts related local APIs testing webhook after dockrized all the services "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
