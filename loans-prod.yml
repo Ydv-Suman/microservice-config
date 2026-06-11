@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Loans for production"
+  message: "Welcome to Loans for production changes made through webhook"
   contactDetails:
     name: "Boyd"
     email: "boyd@simplebank.com"
